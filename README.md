@@ -61,4 +61,5 @@ f) Implementar a exclusão lógica, para tanto, usar o campo "QEstoque" atribuin
 O programa foi desenvolvido para atender a esses requisitos, garantindo que medicamentos com nomes idênticos não pudessem ser adicionados, ocultando medicamentos excluídos nas operações de inclusão, consulta e listagem, tornando a alteração mais amigável ao usuário e implementando a exclusão lógica por meio da atribuição de -1 ao campo "QEstoque".
 
 O objetivo da prova era avaliar a capacidade dos alunos de aplicar os conceitos de programação em C, manipulação de arquivos e estruturas de dados em um contexto prático. A conclusão bem-sucedida deste projeto demonstra a compreensão e a aplicação dos conceitos ensinados no curso de Programação Imperativa na Universidade Federal de Sergipe.
+
 ---
