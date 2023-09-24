@@ -62,4 +62,5 @@ O programa foi desenvolvido para atender a esses requisitos, garantindo que medi
 
 O objetivo da prova era avaliar a capacidade dos alunos de aplicar os conceitos de programação em C, manipulação de arquivos e estruturas de dados em um contexto prático. A conclusão bem-sucedida deste projeto demonstra a compreensão e a aplicação dos conceitos ensinados no curso de Programação Imperativa na Universidade Federal de Sergipe.
 
+
 ---
