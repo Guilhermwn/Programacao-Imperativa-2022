@@ -34,11 +34,7 @@ Para compilar e executar o programa, você precisa de um compilador C compatíve
 
 ## Autor
 
-- **Autor:** Guilherme Franco (GuuiBeta)
-
-## Direitos Autorais
-
-Este programa é de propriedade de Guilherme Franco (GuuiBeta) e está protegido por direitos autorais. Qualquer uso não autorizado do código é estritamente proibido.
+- **Autor:** Guilherme Franco 
 
 ## Motivações
 
